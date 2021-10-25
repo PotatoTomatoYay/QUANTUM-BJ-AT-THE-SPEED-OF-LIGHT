@@ -1,9 +1,9 @@
 # QUANTUM-BJ-AT-THE-SPEED-OF-LIGHT
 Made by Sid Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
-```
-Quantum BJ is a complex game that tests both skill and intelligence
 
 # Playing Quantum BJ
+
+Quantum BJ is a complex game that tests both skill and intelligence
 
 ## The Objective of Quantum BJ
 In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
