@@ -40,5 +40,5 @@ We used Qiskit to model a quantum circuit that contained 6 qubits and 6 classica
 # What did we learn from this experience?
 Oh boy, where do we start? Before this hackathon, our entire team had minimum practice with python, python notebooks, and most importantly, zero experience with quantum computing. 
 
-We were all under the impression that programming a quantum computer would be no different than programming a normal computer with the exception that the programming language would be different. Through experimenting and reading the qiskit library, we discovered that quantum programming required the programmer to understand how to exploit 
+We were all under the impression that programming a quantum computer would be no different than programming a normal computer with the exception that the programming language would be different. Through experimenting and reading the qiskit library, we discovered that quantum programming required the programmer to understand how to exploit entanglement and quantum properties to create efficient software. 
 
