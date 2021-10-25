@@ -1,12 +1,16 @@
 # QUANTUM-BJ-AT-THE-SPEED-OF-LIGHT
 Made by Sid Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 
+
+
 # Playing Quantum BJ
 
 Quantum BJ is a complex game that tests both skill and intelligence.
 
 ## The Objective of Quantum BJ
 In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
+
+
 
 # Game Mechanics
 
@@ -22,7 +26,8 @@ If the player does not wish to receive another card, they type `stand`. The deal
 ## The Dealer
 The dealer is the mysterious entity who serves as your opponent in Quantum BJ. If you lose to the dealer, she slurps your ***soul*** and you will never be able to have it back. There is no rematch or “best of three”. In Quantum BJ, there are real, tangible stakes, which serves to intensify your entertainment!
  
-###### The dealer will always hit when her hand value is 16 or less, and she will stand otherwise. 
+##### The dealer will always hit when her hand value is 16 or less, and she will stand otherwise. 
+
 
 # Winning
 A player wins if they have the highest hand value not exceeding 21 once both players `stand`. If a player's hand value exceeds 21 at any point, they automatically `bust` and lose the game. If both players have the same hand value, then the game will be tied. 
