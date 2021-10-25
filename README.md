@@ -35,7 +35,7 @@ A player wins if they have the highest hand value not exceeding 21 once both pla
 
 
 # How was Qiskit used?
-We used Qiskit to model a quantum circuit that contained 6 qubits and 6 classical bits to represent a binary number that goes up to 63. This was the minimum amount of bits needed to model the deck of cards as there are 52 cards in a standard deck. By attaching an identity gate and a hadamard gate to each qubit and measuring the resulting value, we are able to randomly generate a binary string from 000000 to 111111 (0 to 63).  We run this experiment 500 times, and the value with the highest occurrence is chosen as our final value. This final value is essentially our version of drawing a card for blackjack. All of our qiskit tools happen in the background, none of which is seen by the client.
+We used Qiskit to model a quantum circuit that contained 6 qubits and 6 classical bits to represent a binary number that goes up to 63. This was the minimum amount of bits needed to model the deck of cards as there are 52 cards in a standard deck. By attaching an identity gate and a hadamard gate to each qubit and measuring the resulting value, we are able to randomly generate a binary string from 000000 to 111111 (0 to 63). This value is essentially our version of drawing a card for blackjack. All of our qiskit tools happen in the background, none of which is seen by the client.
 
 # What did we learn from this experience?
 Oh boy, where do we start? Before this hackathon, our entire team had minimum practice with python, python notebooks, and most importantly, zero experience with quantum computing.
