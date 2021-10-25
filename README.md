@@ -6,7 +6,7 @@ After seeing the applications of quantum computing on a simple coin flip, we wer
 # Playing Quantum BJ
 Quantam BJ is played synonomously to the well-known casino game BlackJack.
 
-At the start of the game, the dealer gives 2 cards each to the player and themselves. One of the dealer's cards is unknown to the player (_facedown_).
+At the start of the game, the dealer gives 2 cards each to the player and themselves. One of the dealer's cards is unknown to the player.
 
 With the intention of having a highest valued hand not exceeding 21, the user asks the dealer for a card. The process in which the dealer gives the user a card is referred to as 'hitting' the user. When the user thinks that receiving another card would bring their hand value above 21, they can ask to stop or _stand_. At this point, the dealer hits until her hand is valued 17 or higher. Assuming that neither the dealer nor the user has surpassed 21, each hand value is calculated and the winner is determined. If the user's hand is greater than the dealers,  the user wins. Otherwise, the user loses.
 
