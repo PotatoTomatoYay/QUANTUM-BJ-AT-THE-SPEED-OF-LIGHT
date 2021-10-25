@@ -22,4 +22,4 @@ If the player does not wish to receive another card, they type `stand`. The deal
 ## The Dealer
 The dealer is the mysterious entity who serves as your opponent in Quantum BJ. If you lose to the dealer, she slurps your soul and you will never be able to have it back. There is no rematch or “best of three”. In Quantum BJ, there are real, tangible stakes, which serves to intensify your entertainment!
  
-### The dealer will always hit when her hand value is 16 or less, and she will stand otherwise. 
+# The dealer will always hit when her hand value is 16 or less, and she will stand otherwise. 
