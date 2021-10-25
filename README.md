@@ -4,6 +4,8 @@ Made by Sidharth Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 After seeing the applications of quantum computing on a simple coin flip, we were inspired to use quantum computing to simulate another form of luck, in this case: drawing cards! More specifically, using Qiskit to create a game of blackjack. Two days later, Quantum BJ, a complex game that tests both skill and intelligence, was born.
 
 # Playing Quantum BJ
+To run the game, one just needs to download the python notebook file and run it through an online IDE that supports Qiskit(Jupiter Notebook, Strangeworks). This github repository can also be imported directly into Strangeworks to be run.
+
 Quantam BJ is played synonomously to the well-known casino game BlackJack.
 
 At the start of the game, the dealer gives 2 cards each to the player and themselves. One of the dealer's cards is unknown to the player.
