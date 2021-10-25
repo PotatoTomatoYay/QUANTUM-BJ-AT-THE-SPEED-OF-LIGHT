@@ -44,5 +44,5 @@ Oh boy, where do we start? Before this hackathon, our entire team had minimum pr
 
 We were all under the impression that programming a quantum computer would be no different than programming a normal computer with the exception that the programming language would be different. Through experimenting and reading the qiskit library, we discovered that quantum programming required the programmer to understand how to exploit entanglement and quantum properties to create efficient software. 
 
-Throughout the experience, we learned that 
+Throughout the experience, we learned that quantum computing may seem difficult at first, but with the right resources, anyone can learn it. As mentioned before, everyone on our team had minimal experience with quantum computing. Yet, by this time, we managed to create a whole game with it. One really specific thing we learned was in the counts object for qiskit. The most_frequent method in counts is unable to function when multiple items have the same frequency. Unfortunatly, we ran out of time before we were able to create our own findMax method.
 
