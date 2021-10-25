@@ -4,12 +4,10 @@ Made by Sidharth Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 
 # Playing Quantum BJ
 
-Quantum BJ is a complex game that tests both skill and intelligence.
+After seeing the applications of quantum computing on a simple coin flip, we were inspired to use quantum computing to simulate another form of luck, in this case: drawing cards! More specifically, using it to create a game of blackjack. And thus, Quantum BJ, a complex game that tests both skill and intelligence, was born.
 
 ## The Objective of Quantum BJ
 In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
-
-
 
 # Game Mechanics
 
