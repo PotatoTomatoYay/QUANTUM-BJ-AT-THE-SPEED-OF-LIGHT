@@ -4,16 +4,14 @@ Made by Sidharth Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 After seeing the applications of quantum computing on a simple coin flip, we were inspired to use quantum computing to simulate another form of luck, in this case: drawing cards! More specifically, using Qiskit to create a game of blackjack. Two days later, Quantum BJ, a complex game that tests both skill and intelligence, was born.
 
 # Playing Quantum BJ
-To run the game, one just needs to download the python notebook file and run it through an online IDE that supports Qiskit(Jupiter Notebook, Strangeworks). This github repository can also be imported directly into Strangeworks to be run.
+To run the game, one just needs to download the Python notebook file and run it through a notebook enviroment that supports Qiskit (i.e. Jupiter Notebook, Strangeworks). This Github repository can also be imported directly into Strangeworks and then run.
 
-Quantam BJ is played synonomously to the well-known casino game BlackJack.
+## The Objective of Quantum BJ
+Quantam BJ is played synonomously to the well-known casino game BlackJack. In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
 
 At the start of the game, the dealer gives 2 cards each to the player and themselves. One of the dealer's cards is unknown to the player.
 
 With the intention of having a highest valued hand not exceeding 21, the user asks the dealer for a card. The process in which the dealer gives the user a card is referred to as 'hitting' the user. When the user thinks that receiving another card would bring their hand value above 21, they can ask to stop or _stand_. At this point, the dealer hits until her hand is valued 17 or higher. Assuming that neither the dealer nor the user has surpassed 21, each hand value is calculated and the winner is determined. If the user's hand is greater than the dealers,  the user wins. Otherwise, the user loses.
-
-## The Objective of Quantum BJ
-In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
 
 # Game Mechanics
 
@@ -44,5 +42,5 @@ Oh boy, where do we start? Before this hackathon, our entire team had minimum pr
 
 We were all under the impression that programming a quantum computer would be no different than programming a normal computer with the exception that the programming language would be different. Through experimenting and reading the qiskit library, we discovered that quantum programming required the programmer to understand how to exploit entanglement and quantum properties to create efficient software. 
 
-Throughout the experience, we learned that quantum computing may seem difficult at first, but with the right resources, anyone can learn it. As mentioned before, everyone on our team had minimal experience with quantum computing. Yet, by this time, we managed to create a whole game with it. One really specific thing we learned was in the counts object for qiskit. The most_frequent method in counts is unable to function when multiple items have the same frequency. Unfortunatly, we ran out of time before we were able to create our own findMax method.
+Throughout the experience, we learned that 
 
