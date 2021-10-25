@@ -1,5 +1,5 @@
-# QUANTUM-BJ-AT-THE-SPEED-OF-LIGHT
-Made by Sid Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
+# QUANTUM-BlackJack(BJ)
+Made by Sidharth Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 
 
 
