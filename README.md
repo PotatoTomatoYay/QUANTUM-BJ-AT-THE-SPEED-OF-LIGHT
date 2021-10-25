@@ -4,7 +4,16 @@ Made by Sidharth Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
 After seeing the applications of quantum computing on a simple coin flip, we were inspired to use quantum computing to simulate another form of luck, in this case: drawing cards! More specifically, using it to create a game of blackjack. And thus, Quantum BJ, a complex game that tests both skill and intelligence, was born.
 
 # Playing Quantum BJ
+Quantam BlackJack is played synonomously to the well-known Casino Game.
 
+The dealer gives 2 cards each to the player and themselves. One of the dealer's cards is unknown to the player(facedown).
+
+With the intention of having a hand valued closest to 21(but not over 21), the user asks the dealer for a card. 
+The process in which the dealer gives the user a card is referred to as 'hitting' the user. If the user thinks that
+another card would take his/her hand value past 21, he/she can ask to stop. At this point, the dealer hits himself/herself until his/her hand
+is valued closest to 21(but not over 21). Assuming that neither the dealer nor the user has surpassed 21, each hand value is
+calculated and whoever has the higher hand determines if the user has won or lost. If the user's hand is greater than the dealers, 
+the user wins. Otherwise, the user loses.
 
 ## The Objective of Quantum BJ
 In Quantum BJ, the objective is to have the highest hand value not exceeding 21. 
@@ -36,5 +45,5 @@ We used Qiskit to model a quantum circuit that contained 6 qubits and 6 classica
 # What did we learn from this experience?
 Oh boy, where do we start? Before this hackathon, our entire team had minimum practice with python, python notebooks, and most importantly, zero experience with quantum computing. 
 
-Prior to this experience, we assumed that programming through a quantum computer only requires changes on the hardware side rather than the software side of things. We learned that not only does the hardware need to support particle entanglement, but programming is approached differently as computer scientists need to brainstorm and implement algorithms that not only function with qubits, but exploit them to its fullest with appropriate algorithms taking advantage of superposition.  
+We were all under the impression that programming a quantum computer would be no different than programming a normal computer with the exception that the programming language would be different. Through experimenting and reading the qiskit library, we discovered that quantum programming required the programmer to understand how to exploit 
 
