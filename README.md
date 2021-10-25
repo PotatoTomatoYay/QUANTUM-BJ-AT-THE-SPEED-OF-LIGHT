@@ -1,6 +1,6 @@
 # QUANTUM-BJ-AT-THE-SPEED-OF-LIGHT
 Made by Sid Srinivas, James Liu, Sameer Gupta, Gavin Wang, Raksheet Kota
-
+```
 Quantum BJ is a complex game that tests both skill and intelligence
 
 # Playing Quantum BJ
