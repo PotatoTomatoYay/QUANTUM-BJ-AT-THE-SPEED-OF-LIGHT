@@ -14,7 +14,7 @@ In Quantum BJ, the objective is to have the highest hand value not exceeding 21.
 The value of a player’s hand is equal to the sum of the numbers on each card in their hand. There are also special cards that have unique properties. The K, Q, and J cards represent faces, namely the front of an animal's head that features three of the head's sense organs, the eyes, nose, and mouth, and through which animals express many of their emotions. Because of the vigorous emotional attachment between humans and their faces, “face cards” are worth 10 points. In addition, the “A” card can either be worth either 1 or 11 points, depending on if the higher value would cause a player to have more than 21 points. 
 
 ## `HIT`
-If the player wishes to receive another card, they type `hit`.  A single card is then given to the player. If the player’s hand value totals less than 21, the player has the option to `hit` again. If the player’s hand totals exactly 21, they must `stand`. If the player’s hand value exceeds 21, they “bust” and lose the bet.
+If the player wishes to receive another card, they type `hit`.  A single card is then given to the player. If the player’s hand value totals less than 21, the player has the option to `hit` again. If the player’s hand totals exactly 21, they must `stand`. If the player’s hand value exceeds 21, they `bust` and lose the bet.
 
 ## `STAND`
 If the player does not wish to receive another card, they type `stand`. The dealer will then receive their cards and the hand values will be compared.
